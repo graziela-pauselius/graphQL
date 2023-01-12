@@ -47,7 +47,7 @@ const Category = () => {
 		},
 	});
 
-	// Mutation example
+	// Apollo Mutation example
 	// const [addCategory, { loading, error, data }] = useMutation(SET_CATEGORY);
 	// addCategory({ variables: { category: categoryObject } });
 
